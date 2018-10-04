@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Level>		
+	<levelName>"Learn how to be really realy Greedy"</levelName>		
+ 	<currentLevel>5</currentLevel>
+ 	<currentLevelRank></currentLevelRank>
+ 	<fteId>2</fteId>
+ 	<tier1Objective>100</tier1Objective>
+ 	<tier2Objective>200</tier2Objective>
+ 	<tier3Objective>400</tier3Objective>s
+ 	<tier1ObjectiveReward></tier1ObjectiveReward>
+ 	<tier2ObjectiveReward></tier2ObjectiveReward>
+ 	<tier3ObjectiveReward></tier3ObjectiveReward>
+ 	<startingMultiplier>1</startingMultiplier>
+ 	<startingTime>20</startingTime>
+ 	<levelSpeed>2000</levelSpeed>
+ 	<numberOfObjects>8</numberOfObjects>
+ 	<objectString>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</objectString>
+</Level> 

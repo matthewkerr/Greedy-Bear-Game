@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+	<startupBackground>someImage.png</startupBackground>		
+	<startupBackgroundSound>POL-aquatic-circus-short</startupBackgroundSound>
+	<menuOnTouchAudio></menuOnTouchAudio>
+	<numLevels>40</numLevels>
+</Config>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Objective numRows="8">
+	<objective id="0" name="basicScore" value="10"  tier1value="10" tier2value="9" tier3value="8" includeTypesString="" />
+	<objective id="1" name="basicScore" value="200" tier1value="180" tier2value="150" tier3value="120" includeTypesString="" />
+	<objective id="2" name="basicScore" value="500" tier1value="400" tier2value="300" tier3value="250" includeTypesString="" />
+	<objective id="3" name="basicScore" value="1000" tier1value="900" tier2value="800" tier3value="700" includeTypesString="" />
+	<objective id="4" name="maxMultiplier" value="5" tier1value="10" tier2value="9" tier3value="8" includeTypesString="" />
+	<objective id="5" name="maxMultiplier" value="25" tier1value="25" tier2value="20" tier3value="15" includeTypesString="" />
+	<objective id="6" name="maxMultiplier" value="50" tier1value="40" tier2value="35" tier3value="30" includeTypesString="" />
+	<objective id="7" name="maxMultiplier" value="100" tier1value="90" tier2value="80" tier3value="70" includeTypesString="" />
+	<objective id="8" name="timeBonus" value="100" tier1value="90" tier2value="80" tier3value="70" includeTypesString="" />
+</Objective>
+

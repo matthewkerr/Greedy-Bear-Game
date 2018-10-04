@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Special numRows="1">
+	<special id="0" name="bonusTime" objectId="17" additionalTime="10" bonusMultiplier="0" objectSlowRate="0" penaltyValue="0" currancy="1" increseLevelSpeed="0"  percentChance="1"/>
+</Special>

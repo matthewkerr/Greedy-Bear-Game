@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Level>		
+	<levelName>"Learn how to be Greedy"</levelName>
+	<levelDescription>"Learn about getting bonus time"</levelDescription>			
+ 	<currentLevel>2</currentLevel>
+ 	<currentLevelRank></currentLevelRank>
+ 	<levelMode>day</levelMode>
+ 	<useFte>true</useFte>
+ 	<fteId>1</fteId>
+ 	<levelCompleteObjective></levelCompleteObjective>	
+ 	<levelBackgroundSound></levelBackgroundSound>
+ 	<startingTime>30</startingTime>
+ 	<maxLevelTime>60</maxLevelTime>
+ 	<levelSpeed>2000</levelSpeed>
+ 	<maxLevelSpeed>500</maxLevelSpeed>
+ 	<minLevelSpeed>4000</minLevelSpeed>
+ 	<numberOfObjects>21</numberOfObjects>
+ 	<objectString>1,3,2,0,4,1,2,4,3,0,1,3,2,17,0,4,1,2,4,17,0</objectString>
+ 	<percentIncreaseTimeBonus>0</percentIncreaseTimeBonus>
+ 	<percentIncreaseTaffy>0</percentIncreaseTaffy>
+ 	<percentIncreaseMysteryCookie>0</percentIncreaseMysteryCookie>
+ 	<percentIncreaseCurrency>0</percentIncreaseCurrency>
+ 	<startingMultiplier>1</startingMultiplier>
+ 	<levelObjectiveType>1</levelObjectiveType>
+</Level> 
+
+
+
